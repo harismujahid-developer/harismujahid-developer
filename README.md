@@ -6,7 +6,7 @@ I am a passionate **Computer Science Student & Full-Stack Developer** dedicated 
 
 ### 🚀 Technical Expertise
 
-* **Languages & Frameworks:** PHP, React, HTML5, Custom External CSS, JavaScript
+* **Languages & Frameworks:** PHP, HTML5, Custom External CSS, JavaScript
 * **Databases & Tools:** MySQL, XAMPP, Git & GitHub
 * **Environments:** Windows Development, Linux (Ubuntu via VirtualBox)
 
